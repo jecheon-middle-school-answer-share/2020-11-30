@@ -15,20 +15,27 @@
 
 ## 조회
 ### 바로가기
-[조회 바로가기](https://rang.edunet.net/class/G000364114/classNotifyView.do?pageNo=1&notifySequence=NO_EXIST)
+[조회 바로가기](https://rang.edunet.net/class/G000364114/classNotifyView.do?pageNo=1&notifySequence=302206)
 
 ## 1교시 - 자율
 ### 바로가기
-[자율 바로가기](https://rang.edunet.net/class/G000364114/hmwkppList.do?hmwkSeq=NO_EXIST&hmwkTypeCd=ALL)
+[자율 바로가기](https://rang.edunet.net/class/G000364114/hmwkppList.do?hmwkSeq=717369&hmwkTypeCd=ALL)
 ### 문제
 ### 정답
 ### 참고 자료
 
 ## 2교시 - 영어
 ### 바로가기
-[영어 바로가기](https://rang.edunet.net/class/G000325221/hmwkppList.do?hmwkSeq=NO_EXIST&hmwkTypeCd=ALL)
+[영어 바로가기](https://rang.edunet.net/class/G000325221/hmwkppList.do?hmwkSeq=717851&hmwkTypeCd=ALL)
 ### 문제
+1. 1. 단어장을 선택할 때는 한 페이지당 자신이 아는 단어가 ( )~( )% 정도 있는 것이 좋다.
+2. 단어공부는 하루 총 최하 ( )분 하는 것이 좋다.
+3. 단어장은 처음부터 끝까지 총 ( )~( )번 보는 것이 효과가 있다.
 ### 정답
+1. 20, 30
+2. 30
+3. 3, 4
+
 ### 참고 자료
 
 ## 3교시 - 기가
