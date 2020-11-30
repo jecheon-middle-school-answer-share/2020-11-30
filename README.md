@@ -34,11 +34,9 @@
 3. 단어장은 처음부터 끝까지 총 ( )~( )번 보는 것이 효과가 있다.
 ```
 ### 정답
-```
 1. 20, 30
 2. 30
 3. 3, 4
-```
 ### 참고 자료
 [![Youtube](http://img.youtube.com/vi/KjiUvGWIj4o/0.jpg)](https://www.youtube.com/embed/KjiUvGWIj4o "Youtube")
 
@@ -79,7 +77,6 @@
 : 흑인의 현재 상황이 비참하다는 것을 드러내어 슬픔과 □□를 유발함. ⇨ □□□ 설득 전략
 ```
 ### 정답
-```
 1. 인종, 평등
 2. 1. 링컨, 노예 해방 선언, 건국 신조
    2. 흑인, 공감
@@ -88,7 +85,6 @@
 4. 노예 해방 선언, 흑인
 5. 1. 링컨, 노예 해방 선언, 이성적
    2. 분노, 감성적
-```
 ### 참고 자료
 [![Youtube](http://img.youtube.com/vi/VIKNt20Llj4/0.jpg)](https://www.youtube.com/embed/VIKNt20Llj4 "Youtube")
 
@@ -97,19 +93,15 @@
 [과학 바로가기](https://rang.edunet.net/class/G000325054/hmwkppList.do?hmwkSeq=NO_EXIST&hmwkTypeCd=ALL)
 [구글 폼 바로가기](https://forms.gle/GGVpN7Ns4nn4mJcr6)
 ### 정답
-```
-영상 내용 확인하기
+__영상 내용 확인하기__
 1. 프레드 호일
 2. 1. 팽창하는 우주에는 중심이 없다.
    2. 서로 멀리 떨어져 있는 은하일수록 더 빨리 멀어진다.
-   3.은하들 사이의 거리는 멀어진다.
-```
-```
-핵심역량 더 키우기 1
+   3. 은하들 사이의 거리는 멀어진다.
+__핵심역량 더 키우기 1__
 1. 적색편이
 2. 우주배경복사
 3. O
-```
 ### 참고 자료
 [![Youtube](http://img.youtube.com/vi/_ifMsQ3mAEc/0.jpg)](https://www.youtube.com/embed/_ifMsQ3mAEc "Youtube")
 
