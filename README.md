@@ -95,9 +95,23 @@
 ## 5교시 - 과학
 ### 바로가기
 [과학 바로가기](https://rang.edunet.net/class/G000325054/hmwkppList.do?hmwkSeq=NO_EXIST&hmwkTypeCd=ALL)
-### 문제
+[구글 폼 바로가기](https://forms.gle/GGVpN7Ns4nn4mJcr6)
 ### 정답
+```
+영상 내용 확인하기
+1. 프레드 호일
+2. 1. 팽창하는 우주에는 중심이 없다.
+   2. 서로 멀리 떨어져 있는 은하일수록 더 빨리 멀어진다.
+   3.은하들 사이의 거리는 멀어진다.
+```
+```
+핵심역량 더 키우기 1
+1. 적색편이
+2. 우주배경복사
+3. O
+```
 ### 참고 자료
+[![Youtube](http://img.youtube.com/vi/_ifMsQ3mAEc/0.jpg)](https://www.youtube.com/embed/_ifMsQ3mAEc "Youtube")
 
 ## 6교시 - 역사
 ### 바로가기
