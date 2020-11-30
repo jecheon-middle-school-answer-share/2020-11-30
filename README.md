@@ -21,8 +21,9 @@
 ### 바로가기
 [자율 바로가기](https://rang.edunet.net/class/G000364114/hmwkppList.do?hmwkSeq=717369&hmwkTypeCd=ALL)
 ### 문제
-### 정답
+영상을 보고 고등학교 입학을 앞두고 어떤 마음가짐을 가져야 하는지에 대해서 작성하세요.
 ### 참고 자료
+[![Youtube](http://img.youtube.com/vi/pRcNhl1MnJo/0.jpg)](https://www.youtube.com/embed/pRcNhl1MnJo "Youtube")
 
 ## 2교시 - 영어
 ### 바로가기
